@@ -6,7 +6,7 @@ Train and evaluate a simple CNN on CIFAR-10 using PyTorch.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/MalekWahidi/inmindCNN.git
    cd inmindCNN
    ```
 
