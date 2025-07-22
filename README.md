@@ -1,4 +1,4 @@
-# InMindCNN
+# inmindCNN
 
 Train and evaluate a simple CNN on CIFAR-10 using PyTorch.
 
